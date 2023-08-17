@@ -24,7 +24,6 @@ script: "./gradlew clean build"
 
 before_deploy:
   - FILE_NAME="$AWS_SECRET_KEY_Backend_new.zip"
-  - APP_NAME="$AWS_SECRET_KEY_Backend_new"
   - zip -r $FILE_NAME *
   - mkdir -p deploy
   - mv $FILE_NAME deploy/$FILE_NAME
@@ -50,9 +49,9 @@ deploy:
     key: $FILE_NAME #빌드 파일을 압축해서 전달
 
     bundle_type: zip #압축 확장자
-    application: $APP_NAME #웹 콘솔에서 등록한 CodeDeploy 애플리케이션
+    application: springboot-flask-service #웹 콘솔에서 등록한 CodeDeploy 애플리케이션
 
-    deployment_group: $APP_NAME-group #웹 콘솔에서 등록한 CodeDeploy 배포 그룹
+    deployment_group: springboot-flask-service-group #웹 콘솔에서 등록한 CodeDeploy 배포 그룹
     region: ap-northeast-2
     wait-until-deployed: true
 

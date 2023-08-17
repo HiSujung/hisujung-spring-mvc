@@ -1,4 +1,10 @@
 package com.hisujung.web.jpa.chating;
 
-public interface ChatRoomRepository {
+import com.hisujung.web.entity.chating.ChatRoom;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.Optional;
+
+public interface ChatRoomRepository extends JpaRepository<ChatRoom, Long> {
+    Optional<ChatRoom> findByRoomId(String roomId);
 }
