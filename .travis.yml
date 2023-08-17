@@ -39,7 +39,7 @@ deploy:
   - provider: s3
     access_key_id: $AWS_ACCESS_KEY #travis repo settings에 설정된 값
     secret_acccess_key: $AWS_SECRET_KEY #travis repo settings에 설정된 값
-    bucket: $AWS_SECRET_KEY-bucket
+    bucket: springboot-s3-bucket
     # s3 버킷
     region: ap-northeast-2
     skip_cleanup: true
@@ -52,7 +52,7 @@ deploy:
     access_key_id: $AWS_ACCESS_KEY # Travis repo settings에 설정된 값
     secret_access_key: $AWS_SECRET_KEY
 
-    bucket: $AWS_SECRET_KEY_bucket
+    bucket: springboot-s3-bucket
     key: $FILE_NAME #빌드 파일을 압축해서 전달
 
     bundle_type: zip #압축 확장자
