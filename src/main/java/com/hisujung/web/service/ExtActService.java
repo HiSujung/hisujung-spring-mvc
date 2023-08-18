@@ -68,7 +68,7 @@ public class ExtActService {
     public ExtActListResponseDto findById(Member m, Long id) {
         ExternalAct e = externalActRepository.findById(id).orElseThrow(()->new IllegalArgumentException("해당 대외활동 정보가 존재하지 않습니다."));
 
-        if (likeExternalActRepository.findByMemberAndAct(m, e) != null) {
+        if (likeExternalActRepository.findByMemberAndAct(m, e).isPresent()) {
             return new ExtActListResponseDto(e, 1); // 회원이 좋아요 눌렀으면 1 보냄
         }
         return new ExtActListResponseDto(e, 0); // 회원이 좋아요 안 눌렀으면 0 보냄
