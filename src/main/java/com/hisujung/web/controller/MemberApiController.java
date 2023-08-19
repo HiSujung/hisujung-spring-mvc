@@ -45,6 +45,7 @@ public class MemberApiController {
     @PostMapping("/join/mailConfirm")
     @ResponseBody
     public String mailConfirm(@RequestBody String email) throws Exception {
+        log.info(email);
         String code = mailSender.send(email);
         log.info("인증코드 : " + code);
         return code;
