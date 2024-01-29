@@ -24,11 +24,12 @@
 </div>
 
 ## HiSujung 
--------
+---
 2023 성신여자대학교 소프트웨어경진대회 은상 수상
 
 ## Member
--------
+---
+|---|---|---|---|---|
 |**Jiwon Lee**|**Yujin Lee**|**Eunjea Joe**|**Gaeun Seo**|**Hyeji Shin**|
 |- Lead  - AI|- Backend|- Backend  - Frontend|- Frontend|- Web crawling|
 
