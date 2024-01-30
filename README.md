@@ -29,8 +29,10 @@
 
 ## Member
 ---
-|---|---|---|---|---|
-|**Jiwon Lee**|**Yujin Lee**|**Eunjea Joe**|**Gaeun Seo**|**Hyeji Shin**|
-|- Lead  - AI|- Backend|- Backend  - Frontend|- Frontend|- Web crawling|
+
+| **Jiwon Lee** | **Yujin Lee** | **Eunjea Joe** | **Gaeun Seo** | **Hyeji Shin** |
+| ------------- | ------------- | --------------- | ------------- | -------------- |
+| Lead - AI     | Backend - AI  | Backend - Frontend | Frontend       | Web crawling   |
+
 
   
