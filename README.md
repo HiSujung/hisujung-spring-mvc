@@ -31,8 +31,9 @@
 ---
 
 | **Jiwon Lee** | **Yujin Lee** | **Eunjea Joe** | **Gaeun Seo** | **Hyeji Shin** |
-| ------------- | ------------- | --------------- | ------------- | -------------- |
-| - Lead  - AI     | - Backend  - AI  | - Backend  - Frontend | Frontend       | Web crawling   |
+|:-------------:|:-------------:|:---------------:|:-------------:|:--------------:|
+| - Lead  - AI  | - Backend  - AI  | - Backend  - Frontend | Frontend | Web crawling |
+
 
 
   
