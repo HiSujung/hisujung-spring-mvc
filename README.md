@@ -9,8 +9,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D1?style=flat&logo=MySQL&logoColor=white" />
 </div>
 
 <br/>
@@ -35,11 +37,14 @@
 | - Lead  <br>- AI  | - Backend  <br>- AI  | - Backend  <br>- Frontend | - Frontend | - Web crawling |
 
 
+<br>
+<br>
 
 
 
 
 ![슬라이드1](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/dca7c386-58b6-4fa5-a073-c3f438076627)
+![슬라이드2](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/d7427060-85d0-4e5c-a689-6131e750a7c3)
 ![슬라이드3](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/77f77170-a1f9-43d6-9115-7e7ed3489b1d)
 ![슬라이드4](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/4b8bc31b-5fd4-4dd5-bf7f-b56ceee43d4b)
 ![슬라이드5](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/1747cb02-9bfc-4093-9417-3a222f5ba8ee)
