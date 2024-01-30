@@ -34,7 +34,11 @@
 |:-------------:|:-------------:|:---------------:|:-------------:|:--------------:|
 | - Lead  <br>- AI  | - Backend  <br>- AI  | - Backend  <br>- Frontend | - Frontend | - Web crawling |
 
-<div align="center">
+
+
+
+
+
 ![슬라이드1](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/dca7c386-58b6-4fa5-a073-c3f438076627)
 ![슬라이드2](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/d7427060-85d0-4e5c-a689-6131e750a7c3)
 ![슬라이드3](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/77f77170-a1f9-43d6-9115-7e7ed3489b1d)
@@ -61,5 +65,5 @@
 ![슬라이드24](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/1037ea7b-9958-4131-93fd-fdffe12e873a)
 ![슬라이드25](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/131db617-39be-4589-b8ea-ed0cbd4b78cc)
 ![슬라이드26](https://github.com/HiSujung/hisujung-spring-mvc/assets/80439068/647fcc52-2eb6-4ea5-a1e5-cebecf3e2c51)
-</div>
+
   
