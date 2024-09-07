@@ -1,4 +1,4 @@
-# :cupid: 2023 성신여자대학교 소프트웨어경진대회 은상 수상작 백엔드 Repository입니다. :cupid:
+# :cupid: 2023 소프트웨어경진대회 은상 수상작 백엔드 Repository입니다. :cupid:
 <br/>
 <div align = "center">
   <h3> 📚 TechStack 📚 </h3>
